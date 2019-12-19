@@ -1,0 +1,67 @@
+{
+    "name": "Copyto.co",
+    "description": "<p>Connect2Field provides field service management applications to service businesses of all sizes around the globe. Connect2Field is the name of both the company and the software application it supplies.<\/p>\n\n<p>Any type of service business that needs to manage the work of staff remotely can benefit from Connect2Field.<\/p>\n\n<p>Connect2Field offers: job scheduling software, field service software, service industry software, job dispatch software and mobile job management solutions. A simple subscription-based pricing model is used.\n?????\nConnect2Field is a private company headquartered in Sydney, Australia, with representation in New Zealand, United States, Canada, United Kingdom, Asia and Ireland.<\/p>\n\n<p>Connect2Field has strategic partnerships with leading SMS, Fax, Electronic Payment and Accounting Software businesses.<\/p>\n\n<p>Connect2Field is a secure, web-based application built on the Microsoft Windows Azure cloud architecture. This enables users to work from anywhere in the world through any web browser.<\/p>\n\n<p>Service businesses can dispatch and manage jobs with easy, schedule based on location or priority, set reoccurring jobs, or just one off service calls.<\/p>\n\n<p>Field workers receive their jobs via Internet-enabled mobile device (smartphones, PDAs, Notebook computers, Iphone, iPads etc), and update their status in real time. Managers can now work closer with their teams, and have information on hand when needed. Customers also have the ability to view job status, create jobs, view invoice history and scheduler.<\/p>\n\n<p>Connect2Field integrates with many different web based applications. Customer contacts and invoices are transferred automatically to reduce office staff administration. This reduces paper work and eliminates double handling.<\/p>\n\n<p>With an integrated API (application programming interface), a business???????s website can be linked to capture information directly into Connect2Field to extend service direct to customers.<\/p>\n\n<p>Connect2Field is available globally.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/copyto.png",
+    "tags": [
+        "api provider",
+        "bookmarks",
+        "have api",
+        "paste",
+        "texts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/copyto-co\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Copyto.co",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/copyto.png",
+            "humanURL": "http:\/\/copyto.co",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/copyto-co-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.copyto.co\/"
+        },
+        {
+            "type": "Base",
+            "url": "https:\/\/api.copyto.co\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.connect2field.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.copyto.co\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/connect2field"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/copyto.co\/apidoc"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/copytoco"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/copyto.co"
+        }
+    ]
+}
